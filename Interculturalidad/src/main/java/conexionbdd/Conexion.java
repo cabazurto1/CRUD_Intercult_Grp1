@@ -15,7 +15,7 @@ import java.sql.SQLException;
 public class Conexion {
     
     private static final String URL =
-      "jdbc:mysql://localhost:3306/eurekabank"
+      "jdbc:mysql://localhost:3306/interculturaliad"
       + "?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=America/Lima";
     private static final String USUARIO = "interculturalidad";
     private static final String CLAVE   = "admin";
