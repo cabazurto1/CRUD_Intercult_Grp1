@@ -11,6 +11,19 @@ Este Proyecto realiza el CRUD de personas usando el lenguaje JAVA, el IDE a util
 - Jhon Santos (Programador)
 - Wendy Quintana (BDD)
 
+## 📡 Endpoints de la API
+
+A continuación se detallan los endpoints disponibles para el recurso `Persona`:
+
+| Método | Endpoint        | Descripción                            |
+|--------|------------------|----------------------------------------|
+| GET    | `/persona`       | Obtiene la lista de todas las personas. |
+| GET    | `/persona/{id}`  | Obtiene una persona por su ID.         |
+| POST   | `/persona`       | Crea una nueva persona.                |
+| PUT    | `/persona/{id}`  | Actualiza una persona existente.       |
+| DELETE | `/persona/{id}`  | Elimina una persona por su ID.         |
+
+
 ## 📦 **Docker (Opcional)**
 Para crear la bdd en **Docker**, usar:
 
