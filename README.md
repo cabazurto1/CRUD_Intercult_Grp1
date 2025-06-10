@@ -38,7 +38,7 @@ docker-compose up --build
 - Revisiones de código: Antes de hacer merge a la rama principal.
 - Pruebas locales: Después de resolver un conflicto, se probaba localmente para evitar errores en el repositorio remoto.
 
-## ¿Qué herramientas usaron para comunicarse (ej: GitHub Discussions, WhatsApp)?
+## ¿Qué herramientas usaron para comunicarse?
 
 - GitHub y Pull Requests: Para seguimiento técnico, comentarios sobre código y revisiones.
 
