@@ -1,6 +1,6 @@
 # CRUD_Intercult_Grp1
 
-# 📝 CRUD de personas con Mysql, Java y Restfull
+#  CRUD de personas con Mysql, Java y Restfull
 
 Este Proyecto realiza el CRUD de personas usando el lenguaje JAVA, el IDE a utilizar es netbeans 21 JDK 21 y la BD en Mysql usando docker en la carpeta BDD, Arquitectura MVC.
 
@@ -11,7 +11,7 @@ Este Proyecto realiza el CRUD de personas usando el lenguaje JAVA, el IDE a util
 - Jhon Santos (Programador)
 - Wendy Quintana (BDD)
 
-## 📡 Endpoints de la API
+##  Endpoints de la API
 
 A continuación se detallan los endpoints disponibles para el recurso `Persona`:
 
@@ -24,7 +24,7 @@ A continuación se detallan los endpoints disponibles para el recurso `Persona`:
 | DELETE | `/persona/{id}`  | Elimina una persona por su ID.         |
 
 
-## 📦 **Docker (Opcional)**
+##  **Docker (Opcional)**
 Para crear la bdd en **Docker**, usar:
 
 ```bash
