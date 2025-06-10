@@ -8,7 +8,7 @@ Este Proyecto realiza el CRUD de personas usando el lenguaje JAVA, el IDE a util
 - Christopher Bazurto (Lider)
 - Vanessa Zurita (Programador)
 - Ricardo Rivadeneira (Programador)
-- Jhon Santos (Programador)
+- Jhon Munarco (Programador)
 - Wendy Quintana (BDD)
 
 ##  Endpoints de la API
@@ -32,4 +32,24 @@ docker-compose up --build
 ```
 
 ---
+
+## ¿Cómo resolvieron conflictos de merge entre equipos "remotos"?
+- Pull frecuente: Cada integrante hacía git pull seguido para mantener su copia local actualizada antes de trabajar.
+- Revisiones de código: Antes de hacer merge a la rama principal.
+- Pruebas locales: Después de resolver un conflicto, se probaba localmente para evitar errores en el repositorio remoto.
+
+## ¿Qué herramientas usaron para comunicarse (ej: GitHub Discussions, WhatsApp)?
+
+- GitHub y Pull Requests: Para seguimiento técnico, comentarios sobre código y revisiones.
+
+- WhatsApp: Para comunicación rápida, dudas inmediatas y coordinación diaria.
+
+## ¿Cómo afectaría una diferencia de huso horario real en este flujo?
+
+- Retrasos en la comunicación, los mensajes o dudas pueden tardar horas en ser respondidos, ralentizando la resolución de conflictos o la toma de decisiones.
+
+- Mayor necesidad de documentación clara , para que cada integrante pueda continuar trabajando sin depender de respuestas inmediatas.
+
+- Uso intensivo de herramientas asincrónicas, como GitHub, pull requests con comentarios detallados.
+
 
